@@ -1,2 +1,2 @@
-# codesandbox-practice1
+# codesandbox-practice
 Created with CodeSandbox
